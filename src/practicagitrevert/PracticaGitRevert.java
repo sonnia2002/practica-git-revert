@@ -16,7 +16,6 @@ public class PracticaGitRevert {
     public void angel(){
     }
     public void sonnia(){
-        System.out.println("Sonnia");
     }
 }
 
