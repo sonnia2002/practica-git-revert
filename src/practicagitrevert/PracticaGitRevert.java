@@ -14,7 +14,6 @@ public class PracticaGitRevert {
      * @param args the command line arguments
      */
     public void angel(){
-        System.out.println("Angel");
     }
     public void sonnia(){
         System.out.println("Sonnia");
