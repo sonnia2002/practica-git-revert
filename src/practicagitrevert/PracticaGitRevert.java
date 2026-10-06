@@ -17,4 +17,8 @@ public class PracticaGitRevert {
         // TODO code application logic here
     }
     
+    public void Angel(){
+        System.out.println("Angel GM");
+    }
+    
 }
