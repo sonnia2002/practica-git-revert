@@ -9,13 +9,5 @@ package practicagitrevert;
  * @author ASUS
  */
 public class Integrantes {
-    public void Angel(){
-        System.out.println("Angel GM");
-    }
-    public void Bryan(){
-        System.out.println("Bryan Yepez");
-    }
-    public void Sonnia(){
-        System.out.println("Sonnia Pillajo");
-    }
 }
+
