@@ -15,7 +15,8 @@ public class PracticaGitRevert {
      */
     public void angel(){
     }
-    
+    public void sonnia(){
+    }
 }
 
 //Angel
