@@ -15,5 +15,7 @@ public class Integrantes {
     public void Bryan(){
         System.out.println("Bryan Yepez");
     }
-    
+    public void Sonnia(){
+        System.out.println("Sonnia Pillajo");
+    }
 }
