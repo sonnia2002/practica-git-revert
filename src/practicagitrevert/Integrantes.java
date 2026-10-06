@@ -8,6 +8,6 @@ package practicagitrevert;
  *
  * @author ASUS
  */
-public class Sonnia {
+public class Integrantes {
     
 }
