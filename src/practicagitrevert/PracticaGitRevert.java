@@ -13,19 +13,6 @@ public class PracticaGitRevert {
     /**
      * @param args the command line arguments
      */
-    public static void main(String[] args) {
-        // TODO code application logic here
-    }
-    
-    public void Angel(){
-        System.out.println("Angel GM");
-    }
-    
-    public void Bryan(){
-        System.out.println("Bryan Yepez");
-    }
-    
-    public void Sonnia(){
-        System.out.println("Sonnia Pillajo");
-    }
 }
+
+//Angel
