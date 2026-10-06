@@ -21,4 +21,9 @@ public class PracticaGitRevert {
         System.out.println("Angel GM");
     }
     
+    public void Bryan(){
+        System.out.println("Bryan Yepez");
+    }
+    
+    
 }
