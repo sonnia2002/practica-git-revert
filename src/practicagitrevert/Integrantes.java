@@ -9,5 +9,8 @@ package practicagitrevert;
  * @author ASUS
  */
 public class Integrantes {
+    public void Angel(){
+        System.out.println("Angel GM");
+    }
     
 }
