@@ -13,6 +13,9 @@ public class PracticaGitRevert {
     /**
      * @param args the command line arguments
      */
+    public void angel(){
+    }
+    
 }
 
 //Angel
