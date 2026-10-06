@@ -25,5 +25,7 @@ public class PracticaGitRevert {
         System.out.println("Bryan Yepez");
     }
     
-    
+    public void Sonnia(){
+        System.out.println("Sonnia Pillajo");
+    }
 }
